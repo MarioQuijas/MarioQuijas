@@ -60,6 +60,6 @@ I've worked on several data analysis projects that showcase my skills in transfo
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Mario Quijas](www.linkedin.com/in/mario-quijas)
+- **LinkedIn:** [Mario Quijas](https://www.linkedin.com/in/mario-quijas/)
 - **Email:** quijasmario1@gmail.com
 
