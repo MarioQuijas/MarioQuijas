@@ -8,10 +8,9 @@ I have experience working on real-world data projects, focusing on uncovering tr
 
 ## 🔍 What I’m Currently Working On
 
-- Completing a **Business Intelligence Analyst** training program, which includes projects involving data cleaning, analysis, and visualization.
 - Developing interactive dashboards using **Tableau** and **Power BI** to enhance my data storytelling skills.
 - Strengthening my proficiency in **SQL** by working on projects that involve data extraction, manipulation, and analysis.
-- Exploring **Python** to enhance my data analysis capabilities further and build automated data workflows.
+- Learning **Python** to enhance my data analysis capabilities further and build automated data workflows.
 
 ---
 
